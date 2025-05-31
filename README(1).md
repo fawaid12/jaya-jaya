@@ -12,7 +12,7 @@ Permasalahan bisnis yang ingin diselesaikan meliputi:
 ### Cakupan Proyek
 Cakupan proyek yang akan dikerjakan:
 - Melakukan eksplorasi dan pembersihan data siswa.
-- Melakukan analisis deskriptif untuk memahami karakteristik siswa dan faktor-faktor yang mempengaruhi dropout.
+- Melakukan analisis data eksploratif (EDA) untuk memahami karakteristik siswa dan faktor-faktor yang mempengaruhi dropout.
 - Membangun model machine learning untuk memprediksi kemungkinan dropout siswa. Model yang digunakan Random Forest, Gradient Boosting, dan XGBoost untuk membandingkan model yang terbaik.
 - Mendeploy aplikasi machine learning di streamlit cloud comunity
 - Mengembangkan dashboard interaktif menggunakan looker studio sebagai alat monitoring dan pengambilan keputusan.
